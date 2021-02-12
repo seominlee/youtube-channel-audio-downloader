@@ -1,7 +1,7 @@
 # youtube-channel-audio-downloader
 
 
-Dependency
+# Dependency 
 
 # 셀레늄 및  게코드라이버 그리고 FFMPEG 
 
@@ -18,16 +18,20 @@ sudo apt install snapd
 sudo snap install ffmpeg
 
 
-MAIN INSTALL 
+# MAIN INSTALL 
+
+터미널 창에서 입력 
 
 git clone https://github.com/seominlee/youtube-channel-audio-downloader
+
+다운로드 폴더로 가서 
 
 mkdir mp3
 mkdir m4a
 
 
 
-TEST !!!
+# TEST !!!
 
 
 time python3 mp3.py https://www.youtube.com/channel/UCpi2Yrdi9O4_9wxhgYyyllA
