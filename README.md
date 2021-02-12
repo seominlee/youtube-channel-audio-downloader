@@ -34,10 +34,9 @@ mkdir m4a
 
 # TEST !!!
 
+time python3 mp3.py https://www.youtube.com/user/jervilan/featured
 
-time python3 mp3.py https://www.youtube.com/channel/UCpi2Yrdi9O4_9wxhgYyyllA
-
-time python3 m4a.py https://www.youtube.com/channel/UCpi2Yrdi9O4_9wxhgYyyllA
+time python3 m4a.py https://www.youtube.com/user/jervilan/featured
 
 
 작업을 마치면  각각  MP3 폴더 및  M4A 폴더에 저장됨.
