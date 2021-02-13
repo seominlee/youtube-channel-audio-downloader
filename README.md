@@ -3,7 +3,7 @@
 
 # Dependency 
 
-# 셀레늄 및  게코드라이버 그리고 FFMPEG, parallel
+# 셀레늄 및  게코드라이버 그리고 FFMPEG, parallel, youtube-dl
 
 sudo apt-get install python3-selenium 
 
@@ -18,6 +18,8 @@ sudo apt install snapd
 sudo snap install ffmpeg
 
 sudo apt install parallel
+
+sudo snap install youtube-dl
 
 
 # MAIN INSTALL 
