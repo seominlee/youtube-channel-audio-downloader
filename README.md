@@ -32,7 +32,7 @@ youtube-dl -U
 
 git clone https://github.com/seominlee/youtube-channel-audio-downloader
 
-다운로드 폴더로 가서 
+cd youtube-channel-audio-downloader
 
 mkdir mp3
 
