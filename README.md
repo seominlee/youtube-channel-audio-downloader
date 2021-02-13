@@ -1,4 +1,4 @@
-# youtube-channel-audio-downloader
+# youtube-channel-audio-downloader (mp4 or m4a)
 
 
 # Dependency install
