@@ -5,7 +5,6 @@
 
 # https://www.reddit.com/r/DataHoarder/comments/9qrlbp/i_wrote_a_pythonselenium_based_crawler_to_really/
 
-# 소스는  위에 자료에서 많이 가져옴.
 
 from selenium import webdriver
 import argparse
