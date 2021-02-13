@@ -49,3 +49,7 @@ time python3 m4a.py https://www.youtube.com/user/jervilan/featured
 
 작업을 마치면  각각  MP3 폴더 및  M4A 폴더에 저장됨.
 
+
+# videos parse and save urls code from : 
+
+https://www.reddit.com/r/DataHoarder/comments/9qrlbp/i_wrote_a_pythonselenium_based_crawler_to_really/
