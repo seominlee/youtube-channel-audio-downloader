@@ -5,7 +5,7 @@
 
 # 셀레늄 및  게코드라이버 그리고 FFMPEG, parallel, youtube-dl
 
-sudo apt-get install python3-selenium 
+pip install selenium
 
 wget https://github.com/mozilla/geckodriver/releases/download/v0.29.0/geckodriver-v0.29.0-linux64.tar.gz
 
