@@ -1,7 +1,6 @@
 # youtube-channel-audio-downloader (mp4 or m4a)
 
-#
-#
+
 # Dependency install
 
 # 셀레늄 및  게코드라이버 그리고 FFMPEG, parallel, youtube-dl
@@ -29,7 +28,6 @@ youtube-dl -U
 
 # MAIN INSTALL 
 
-터미널 창에서 입력 
 
 git clone https://github.com/seominlee/youtube-channel-audio-downloader
 
@@ -45,10 +43,11 @@ mkdir m4a
 
 time python3 mp3.py https://www.youtube.com/user/jervilan/featured
 
+
 time python3 m4a.py https://www.youtube.com/user/jervilan/featured
 
 
-작업을 마치면  각각  MP3 폴더 및  M4A 폴더에 저장됨.
+saved to mp3 or m4a folder.
 
 
 # videos parsing and saving urls code from : 
