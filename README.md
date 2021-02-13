@@ -3,7 +3,7 @@
 
 # Dependency install
 
-# 셀레늄 및  게코드라이버 그리고 FFMPEG, parallel, youtube-dl
+# selenium,  geckodriver, FFMPEG, parallel, youtube-dl
 
 pip install selenium
 
