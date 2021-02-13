@@ -3,7 +3,7 @@
 
 # Dependency 
 
-# 셀레늄 및  게코드라이버 그리고 FFMPEG 
+# 셀레늄 및  게코드라이버 그리고 FFMPEG, parallel
 
 sudo apt-get install python3-selenium 
 
@@ -16,6 +16,8 @@ sudo mv geckodriver  /usr/local/bin/
 sudo apt install snapd
 
 sudo snap install ffmpeg
+
+sudo apt install parallel
 
 
 # MAIN INSTALL 
