@@ -13,13 +13,14 @@ tar -xf geckodriver-v0.29.0-linux64.tar.gz
 
 sudo mv geckodriver  /usr/local/bin/
 
-sudo apt install snapd
-
 sudo snap install ffmpeg
 
 sudo apt install parallel
 
-sudo snap install youtube-dl
+sudo wget https://yt-dl.org/latest/youtube-dl -O /usr/local/bin/youtube-dl
+sudo chmod a+x /usr/local/bin/youtube-dl
+hash -r
+youtube-dl -U
 
 
 # MAIN INSTALL 
