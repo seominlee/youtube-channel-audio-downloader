@@ -41,6 +41,7 @@ youtube-dl -U
 
 ----- selenium,  geckodriver, FFMPEG, parallel, youtube-dl --------
 
+```
 pip install selenium
 
 wget https://github.com/mozilla/geckodriver/releases/download/v0.29.0/geckodriver-v0.29.0-linux64.tar.gz
@@ -60,6 +61,7 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 hash -r
 
 youtube-dl -U
+```
 
 
 
