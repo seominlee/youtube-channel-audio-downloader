@@ -39,7 +39,8 @@ mkdir m4a
 
 
 
-# TEST !!!
+# TEST !!! (python3 mp3.py + youtube channel url)
+
 
 time python3 mp3.py https://www.youtube.com/user/jervilan/featured
 
