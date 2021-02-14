@@ -70,12 +70,7 @@ git clone https://github.com/seominlee/youtube-channel-audio-downloader
 
 cd youtube-channel-audio-downloader
 
-mkdir mp3
-
-mkdir m4a
-
-mkdir flac
-
+mkdir mp3 && mkdir m4a && mkdir flac
 
 
 
