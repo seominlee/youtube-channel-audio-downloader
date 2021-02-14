@@ -67,7 +67,7 @@ youtube-dl -U
 
 
 
-# MAIN INSTALL (메인 설치)
+## MAIN INSTALL (메인 설치)
 
 ```
 git clone https://github.com/seominlee/youtube-channel-audio-downloader
@@ -79,7 +79,7 @@ mkdir mp3 && mkdir m4a && mkdir flac
 
 
 
-# TEST !!! 
+## TEST !!! 
 
 (python3 mp3.py + youtube channel url)  
 
