@@ -28,8 +28,6 @@ sudo chmod a+x /usr/local/bin/youtube-dl
 
 hash -r
 
-youtube-dl -U
-
 
 # MAIN INSTALL (메인 설치)
 
