@@ -1,4 +1,4 @@
-# youtube-channel-audio-downloader (mp4 or m4a)
+# youtube-channel-URL TO audio files (mp4 or m4a)
 
 Download YouTube channel videos to sound source at once
 
