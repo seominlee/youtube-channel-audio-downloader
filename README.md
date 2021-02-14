@@ -3,7 +3,7 @@
 
 # Dependency install
 
-** selenium,  geckodriver, FFMPEG, parallel, youtube-dl
+----- selenium,  geckodriver, FFMPEG, parallel, youtube-dl --------
 
 pip install selenium
 
