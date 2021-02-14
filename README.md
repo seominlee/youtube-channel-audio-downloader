@@ -83,11 +83,11 @@ mkdir mp3 && mkdir m4a && mkdir flac
 
 ## Usage
 
-(python3 mp3.py + youtube channel url)  
+`python3 mp3.py + youtube channel url`  <------ want to mp3
 
-(python3 flac.py + youtube channel url) 
+`python3 flac.py + youtube channel url` <------ want to flac
 
-(python3 m4a.py + youtube channel url)   
+`python3 m4a.py + youtube channel url`  <------ want to m4a
 
 
 ```
