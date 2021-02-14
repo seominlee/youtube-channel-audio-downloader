@@ -6,12 +6,13 @@ Download YouTube channel videos to sound source at once
 유투브 채널별 비디오들을 한번에 오디오 파일들로 다운로드 (mp3, flac or m4a)
 
 
-# Dependency install  on Mac OS ( Mac OS 설치 프로그램)
+## Dependency install  on Mac OS ( Mac OS 설치 프로그램)
 
 ----- firefox, selenium,  geckodriver, FFMPEG, parallel, youtube-dl --------
 
 https://www.mozilla.org/en-US/firefox/new/    (firefox down and install)
 
+```
 pip3 install selenium
 
 cd /tmp
@@ -35,9 +36,10 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 hash -r
 
 youtube-dl -U
+```
 
 
-# Dependency install on ubuntu 20.04 (우분투 설치 프로그램) 
+## Dependency install on ubuntu 20.04 (우분투 설치 프로그램) 
 
 ----- selenium,  geckodriver, FFMPEG, parallel, youtube-dl --------
 
