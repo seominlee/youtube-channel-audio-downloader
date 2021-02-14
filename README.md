@@ -76,8 +76,10 @@ mkdir mp3 && mkdir m4a && mkdir flac
 
 # TEST !!! 
 
-(python3 mp3.py + youtube channel url)   
+(python3 mp3.py + youtube channel url)  
+
 (python3 flac.py + youtube channel url) 
+
 (python3 m4a.py + youtube channel url)   
 
 
