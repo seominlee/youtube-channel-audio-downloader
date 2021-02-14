@@ -90,7 +90,7 @@ time python3 m4a.py https://www.youtube.com/user/jervilan/featured
 
 saved to mp3 or m4a folder.
 
-![alt text](brono.png)
+![alt text](https://github.com/seominlee/youtube-channel-audio-downloader/blob/main/bruno.png)
 
 
 
