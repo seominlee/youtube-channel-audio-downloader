@@ -1,6 +1,8 @@
 # youtube-channel-audio-downloader (mp4 or m4a)
 
-유투브 채널별 비디오들을 한번에 mp3,,m4a 파일로 다운로드 
+**Download YouTube channel videos to sound source at once
+
+유투브 채널별 비디오들을 한번에 mp3,m4a 파일로 다운로드 
 
 # Dependency install (필수 설치 프로그램)
 
