@@ -43,9 +43,15 @@ youtube-dl -U
 
 ## Dependency install on ubuntu 20.04 (우분투 설치 프로그램) 
 
-`selenium`,  `geckodriver`, `FFMPEG`, `parallel`, `youtube-dl` 
+`selenium`,  `geckodriver`, `FFMPEG`, `parallel`, `youtube-dl` , `conda`
 
 ```
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh 
+
+bash Miniconda3-latest-Linux-x86_64.sh
+
+reboot
+
 pip install selenium
 
 wget https://github.com/mozilla/geckodriver/releases/download/v0.29.0/geckodriver-v0.29.0-linux64.tar.gz
