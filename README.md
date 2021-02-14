@@ -10,6 +10,8 @@ Download YouTube channel videos to sound source at once
 
 ----- selenium,  geckodriver, FFMPEG, parallel, youtube-dl --------
 
+https://www.mozilla.org/en-US/firefox/new/    (firefox down and install)
+
 pip3 install selenium
 
 cd /tmp
