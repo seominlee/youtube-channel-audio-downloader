@@ -1,10 +1,3 @@
-# 사용법  (셀레늄, 유투브dl 설치되어있어야, mp3변환은 ffmpeg )
-
-
-# python3 m4a.py https://www.youtube.com/channel/UC9GtSLeksfK4yuJ_g1lgQbg
-
-# https://www.reddit.com/r/DataHoarder/comments/9qrlbp/i_wrote_a_pythonselenium_based_crawler_to_really/
-
 
 from selenium import webdriver
 import argparse
