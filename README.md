@@ -8,7 +8,7 @@ Download YouTube channel videos to sound source at once
 
 # Dependency install  on Mac OS ( Mac OS 필수 설치 프로그램)
 
------ selenium,  geckodriver, FFMPEG, parallel, youtube-dl --------
+----- firefox, selenium,  geckodriver, FFMPEG, parallel, youtube-dl --------
 
 https://www.mozilla.org/en-US/firefox/new/    (firefox down and install)
 
