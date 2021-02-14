@@ -1,7 +1,7 @@
 # youtube-channel-audio-downloader (mp4 or m4a)
 
 
-# Dependency install
+# Dependency install (필수 설치 프로그램)
 
 ----- selenium,  geckodriver, FFMPEG, parallel, youtube-dl --------
 
@@ -26,7 +26,7 @@ hash -r
 youtube-dl -U
 
 
-# MAIN INSTALL 
+# MAIN INSTALL (메인 설치)
 
 
 git clone https://github.com/seominlee/youtube-channel-audio-downloader
@@ -39,7 +39,7 @@ mkdir m4a
 
 
 
-# TEST !!! (python3 mp3.py + youtube channel url)
+# TEST !!! (python3 mp3.py + youtube channel url)   
 
 
 time python3 mp3.py https://www.youtube.com/user/jervilan/featured
