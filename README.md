@@ -4,6 +4,8 @@ Download YouTube channel videos to sound source at once
 
 유투브 채널별 비디오들을 한번에 오디오 파일로 다운로드 
 
+# Works on linux
+
 # Dependency install (필수 설치 프로그램)
 
 ----- selenium,  geckodriver, FFMPEG, parallel, youtube-dl --------
