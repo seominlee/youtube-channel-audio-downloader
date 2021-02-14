@@ -41,7 +41,7 @@ youtube-dl -U
 
 ## Dependency install on ubuntu 20.04 (우분투 설치 프로그램) 
 
------ selenium,  geckodriver, FFMPEG, parallel, youtube-dl --------
+`selenium`,  `geckodriver`, `FFMPEG`, `parallel`, `youtube-dl` 
 
 ```
 pip install selenium
