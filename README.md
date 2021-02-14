@@ -1,7 +1,7 @@
 #
 # youtube-channel-url TO audio files (mp4, flac or m4a)
 
-Mac OS and Linux
+Mac OS and Linux (Ubuntu)
 
 Download YouTube channel videos to sound source at once
 
