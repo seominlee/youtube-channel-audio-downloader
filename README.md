@@ -2,7 +2,7 @@
 
 Download YouTube channel videos to sound source at once
 
-유투브 채널별 비디오들을 한번에 오디오 파일로 다운로드 
+유투브 채널별 비디오들을 한번에 오디오 파일들로 다운로드 (mp4 or m4a)
 
 
 # Dependency install  on Mac OS ( Mac OS 필수 설치 프로그램)
