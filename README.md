@@ -22,11 +22,14 @@ sudo snap install ffmpeg
 
 sudo apt install parallel
 
-sudo wget https://yt-dl.org/latest/youtube-dl -O /usr/local/bin/youtube-dl
+sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
 
-sudo chmod a+x /usr/local/bin/youtube-dl
+sudo chmod a+rx /usr/local/bin/youtube-dl
 
 hash -r
+
+youtube-dl -U
+
 
 
 # MAIN INSTALL (메인 설치)
